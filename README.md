@@ -1,12 +1,10 @@
 # Cropper.js
-
 [![Downloads](https://img.shields.io/npm/dm/cropperjs.svg)](https://www.npmjs.com/package/cropperjs) [![Version](https://img.shields.io/npm/v/cropperjs.svg)](https://www.npmjs.com/package/cropperjs) [![Gzip Size](https://img.shields.io/bundlephobia/minzip/cropperjs.svg)](https://unpkg.com/cropperjs/dist/cropper.common.js)
 
-> JavaScript image cropper. This is the branch for v1.x, for v2.x, check out the [`v2`](https://github.com/fengyuanchen/cropperjs/tree/v2) branch.
+> JavaScript image cropper. This is the branch for v1.x.
 
 - [Website](https://fengyuanchen.github.io/cropperjs)
 - [Photo Editor](https://fengyuanchen.github.io/photo-editor) - An advanced example of Cropper.js.
-- [jquery-cropper](https://github.com/fengyuanchen/jquery-cropper) - A jQuery plugin wrapper for Cropper.js.
 
 ## Table of contents
 
@@ -1042,35 +1040,7 @@ If you have to use another cropper with the same namespace, just call the `Cropp
 </script>
 ```
 
-## Browser support
-
-- Chrome (latest)
-- Firefox (latest)
-- Safari (latest)
-- Opera (latest)
-- Edge (latest)
-- Internet Explorer 9+
-
-## Contributing
-
-Please read through our [contributing guidelines](.github/CONTRIBUTING.md).
-
-## Versioning
-
-Maintained under the [Semantic Versioning guidelines](https://semver.org/).
-
-## License
-
-[MIT](https://opensource.org/licenses/MIT) © [Chen Fengyuan](https://chenfengyuan.com/)
-
-## Related projects
-
-- [angular-cropperjs](https://github.com/matheusdavidson/angular-cropperjs) by [@matheusdavidson](https://github.com/matheusdavidson)
-- [blazor-cropperjs](https://github.com/CropperBlazor/Cropper.Blazor) by [@ColdForeign](https://github.com/ColdForeign), [@MaxymGorn](https://github.com/MaxymGorn)
-- [ember-cropperjs](https://github.com/danielthall/ember-cropperjs) by [@danielthall](https://github.com/danielthall)
-- [iron-cropper](https://github.com/safetychanger/iron-cropper) by [@safetychanger](https://github.com/safetychanger)
 - [react-cropper](https://github.com/react-cropper/react-cropper) by [@roadmanfong](https://github.com/roadmanfong)
-- [vue-cropperjs](https://github.com/Agontuk/vue-cropperjs) by [@Agontuk](https://github.com/Agontuk)
-- [Symfony UX Cropper.js](https://github.com/symfony/ux-cropperjs) by [@symfony](https://github.com/symfony)
+
 
 [⬆ back to top](#table-of-contents)
